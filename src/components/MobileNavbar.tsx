@@ -21,7 +21,7 @@ const MobileNavbar = ({
       >
         <div className="flex justify-between">
           <div className="m-10 text-2xl">
-            <h1>Navigation</h1>
+            <h1>Navigation tego typu</h1>
           </div>
           <div className="m-10 text-2xl">
             <FontAwesomeIcon
