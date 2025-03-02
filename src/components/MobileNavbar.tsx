@@ -17,7 +17,7 @@ const MobileNavbar = ({
         }  w-full fixed bg-gray-300 right-0 top-0 flex justify-between font-display`}
       >
         <div className="m-10 text-2xl">
-          <h1>Navigation</h1>
+          <h1>nigger</h1>
         </div>
         <div className="m-10 text-2xl">
           <FontAwesomeIcon
