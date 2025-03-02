@@ -1,8 +1,0 @@
-@import "tailwindcss";
-@font-face {
-  font-family: "Rubik-Medium";
-  src: url(./fonts/Rubik-Fonts/Rubik-Medium.ttf);
-}
-@theme {
-  --font-display: "Rubik-Medium";
-}
