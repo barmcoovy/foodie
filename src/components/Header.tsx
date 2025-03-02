@@ -37,6 +37,7 @@ const Header: React.FC = () => {
         <MobileNavbar
           isVisible={isVisible}
           handleChangeVisibility={toogleVisibility}
+          navbarButtonsContent={MenuNavbar}
         />
       ) : null}
     </>
